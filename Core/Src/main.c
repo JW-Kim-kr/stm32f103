@@ -94,6 +94,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+      int a=100;
+      //이것은 2회차 변경입니다.
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
