@@ -95,6 +95,7 @@ int main(void)
   while (1)
   {
       int a=100;
+      int b=200;
       //이것은 2회차 변경입니다.
     /* USER CODE END WHILE */
 
